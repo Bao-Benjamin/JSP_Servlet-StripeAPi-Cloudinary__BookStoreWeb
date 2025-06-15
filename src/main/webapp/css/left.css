@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.leftPos{
+	position: fixed;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.card-left {
+    padding: 8px 12px; /* Giảm padding cho phần tiêu đề */
+    font-size: 16px; /* Giảm kích thước chữ */
+}
+
+.card-body-left {
+    padding: 10px; /* Giảm padding bên trong */
+}
+
+.card-body-left p {
+    margin-bottom: 5px; /* Giảm khoảng cách giữa các dòng */
+}
+
+.btn-success {
+    padding: 6px 10px; /* Giảm chiều cao nút */
+    font-size: 14px;
+}
